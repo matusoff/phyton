@@ -1,4 +1,5 @@
 #Assignment 2
+#Oleg Matusovsky
 # Q1
 a = input("Enter the number: ")
 b = input("Enter the number: ")

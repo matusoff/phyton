@@ -1,4 +1,4 @@
-
+#Assignment 2
 # Q1
 a = input("Enter the number: ")
 b = input("Enter the number: ")
@@ -117,6 +117,6 @@ with open("data2.txt", 'x') as file:
     file.write('Data Science is Awesome!''\n' 'Welcome to the python course')
 
 
-
+#Q6 is still under work
 
 
